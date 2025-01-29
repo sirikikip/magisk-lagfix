@@ -1,0 +1,6 @@
+id=magisk_lagfix
+name=Magisk Lag Fix
+version=1.0
+versionCode=1
+author=sirikikip
+description=Fix lag by adjusting OOM settings for init subcontext
